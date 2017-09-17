@@ -1,0 +1,115 @@
+.logo{
+  align-items: center;
+  display: flex;
+}
+
+.logo img{
+  width: 48px;
+  height: 48px;
+}
+
+.logo span{
+  font-size: 24px;
+  padding-left: 5px;
+}
+
+.register {
+	float: right !important;
+}
+
+.footer {
+	text-align: center;
+}
+
+.ant-menu-horizontal>.ant-menu-item>a, .ant-menu-horizontal>.ant-menu-submenu>a {
+    display: inline-block !important;
+}
+
+.container {
+	padding-top: 15px;
+}
+
+.leftContainer {
+	float: left;
+	width: 400px;
+}
+
+.carousel img{
+	width: 400px;
+	height: 260px;
+}
+
+.topNewsList {
+	width: 100%;
+    float: left;
+    text-align: left;
+    font-size: 14px;
+    margin-bottom: 10px;
+
+}
+
+.topNewsList a {
+    line-height: 22px !important;
+    color: #666 !important;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+}
+
+.tabs_news {
+    padding-left: 10px;
+    width: 430px;
+    float: left;
+}
+
+.tabs_product {
+    width: 290px;
+    padding-left: 10px;
+    float: left;
+}
+
+.tabs_news li {
+    height: 27px;
+    line-height: 27px;
+    font-size: 14px;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 417px;
+    float: left;
+    text-overflow: ellipsis;
+}
+
+.tabs_product li {
+    height: 27px;
+    line-height: 27px;
+    font-size: 14px;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 257px;
+    text-overflow: ellipsis;
+}
+
+.clearfix{
+  margin-top: 20px;
+}
+
+.ant-card{
+  margin-top: 5px !important;
+}
+
+.ant-card-head-title{
+  text-align: left !important;
+}
+.ant-card-body{
+	padding: 3px !important;
+ 	text-align: left !important;
+}
+
+.imageblock {
+	float: left;
+	padding: 2px;
+}
+
+.custom-card {
+	padding-top: 2px;
+}
